@@ -26,7 +26,7 @@ Evalio is a cutting-edge AI-powered technical interview platform that streamline
 - **Dynamic Question Generation**: AI adapts questions based on job requirements and candidate responses
 - **Real-time Speech Recognition**: Natural conversation with advanced speech analysis using Web Speech API
 - **Voice Synthesis**: AI interviewer with natural speech capabilities
-- **LLaMA 3.2 Integration**: Powered by Ollama for intelligent conversation flow
+- **LLaMA 3.2 Integration**: Powered by Ollama for intelligent conversation flow alternatively Gemini API can be Used.
 
 ### 📊 Comprehensive Analytics
 - **Performance Metrics**: Evaluates accuracy, communication, technical depth, and cultural fit
