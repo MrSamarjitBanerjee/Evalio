@@ -20,6 +20,19 @@
 
 Evalio is a cutting-edge AI-powered technical interview platform that streamlines the hiring process for companies. It conducts automated technical interviews, provides real-time candidate assessment, and generates comprehensive reports to help HR teams make informed hiring decisions.
 
+## 🏆 Awards & Publications
+
+**Evalio** has been recognized for its technical innovation and contribution to the field of AI-assisted evaluation.
+
+* 🥇 **JIS Innovation Award (2026)**
+  * Awarded to our cross-functional project team for exceptional development and delivering a highly effective, real-world AI solution.
+
+* 📄 **Research Publication (2025)**
+  * **Conference:** *National Conference on Communications and Computing Innovations (NCCCI)* : Paper_ID : 219 , { Chapter-35 , Page 251 }
+    LINK : https://www.akinik.com/products/3224/national-conference-on-communication-computing-and-iot-nccci2025?srsltid=AfmBOopfUJKqHY594xcSKk7raEPGslD1jpvOp2eCrGqzLg1XtRiqeMMt
+    <img width="1080" height="822" alt="image" src="https://github.com/user-attachments/assets/f49593a6-5f53-48b1-b09a-90003fa30d6a" />
+
+  * **Details:** Authored and published technical research detailing the system's core architecture, logic, and AI integration.
 ## ✨ Key Features
 
 ### 🤖 AI-Powered Interviews
