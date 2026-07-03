@@ -68,6 +68,16 @@ Evalio is a cutting-edge AI-powered technical interview platform that streamline
 - **Computer Vision**: OpenCV for proctoring
 - **File Processing**: PyMuPDF for PDF handling
 - **Authentication**: Django Authentication System
+  
+IMAGES
+<img width="927" height="415" alt="image" src="https://github.com/user-attachments/assets/b7c3ca74-fab8-48cd-a74c-1034e6910990" />
+<img width="841" height="394" alt="image" src="https://github.com/user-attachments/assets/78d975c3-a242-48d6-abb2-a27ae4a553c6" />
+<img width="240" height="313" alt="image" src="https://github.com/user-attachments/assets/dc18a59b-7fa0-4c71-8752-f8585680403f" />
+<img width="478" height="412" alt="image" src="https://github.com/user-attachments/assets/325e7e5e-50bd-4d82-9650-ee3ee45c0774" />
+
+
+
+
 
 ## 📁 Project Structure
 
