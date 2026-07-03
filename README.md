@@ -63,7 +63,7 @@ Evalio is a cutting-edge AI-powered technical interview platform that streamline
 - **Backend**: Django (Python 3.x)
 - **Frontend**: HTML5, CSS3, JavaScript, TailwindCSS
 - **Database**: SQLite
-- **AI/ML**: Ollama (LLaMA 3.2) / Gemini API 
+- **AI/ML**: Now Updated To Gemini API (gemini-2.5-flash) 
 - **Speech Processing**: Web Speech API (webkitSpeechRecognition)
 - **Computer Vision**: OpenCV for proctoring
 - **File Processing**: PyMuPDF for PDF handling
